@@ -1,0 +1,24 @@
+.btndesign{
+    width: 100%;
+    height: 40px;
+    margin-bottom: 5px;
+}
+.newBtnDesign{
+    width: 100%;
+    height: 40px;
+    margin-bottom: 5px;
+}
+
+.lblDesign{
+
+    width: 100%;
+}
+.lbldesign1{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: .5rem;
+}
+.comboBoxDesign{
+    width: 50%;
+}
